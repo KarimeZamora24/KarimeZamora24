@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarimeZamora24
 - 👀 I’m interested in science, data science, cosmetic science, and basically anything that's driven by creativity
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on emerging start-ups or consulting
+- 💞️ I’m looking to collaborate on emerging start-ups or consulting organizations
 - 📫 How to reach me ->  karimezsa18@gmail.com
 
 <!---
